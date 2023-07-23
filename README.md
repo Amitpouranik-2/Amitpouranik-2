@@ -1,11 +1,22 @@
 <h1 align="left">Hey, I'm Amit Pouranik <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h1>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="center">
+ 
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Passionate%20for%20cpp,%20DSA;Java%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=#00FF00&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
 <h3 align="left"> ✅Eager To Learn New Technologies✅</h3>
 
 <p>👨🏻‍💻This is Amit Pouranik , a passionate Java full-stack developer and Learning DSA ( Data Structure And Algorithm). I have extensive experience in C and C++, using them professionally and for personal projects. </p>
 
+
+
+
 - 🌱 I’m currently learning **JavaScript**
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">Connect with me🤝</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/amit-pouranik-497197209/" target="_blank">
@@ -20,7 +31,7 @@
   </a>
 </div>
 
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 align="left">Recent Blogs✍️</h2>
 <div align="left">
   <a href="https://medium.com/@amitpouranik2" target="_blank">
@@ -29,10 +40,7 @@
 </div>
 
 
-
-
-
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
@@ -47,6 +55,7 @@
    <img alt="SQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt= "SQLite" src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left">  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitpouranik-2&show_icons=true&locale=en&layout=compact" alt="amitpouranik-2" /></p>
@@ -55,3 +64,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpouranik-2&" alt="amitpouranik-2" /></p>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
