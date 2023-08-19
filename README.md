@@ -1,6 +1,9 @@
-<h1 align="left">Hey, I'm Amit Pouranik <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h1>
+<h1 align="left">Hey, I'm Amit Pouranik <img 
+                                         src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30"/></h1>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
+<img align ='right' src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif"  width="250">
+
  
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -12,7 +15,7 @@
 <p>👨🏻‍💻This is Amit Pouranik , a passionate Java full-stack developer and Learning DSA ( Data Structure And Algorithm). I have extensive experience in C and C++, using them professionally and for personal projects. </p>
 
 
-
+<h2> Hi, I'm Amit Pouranik </h2>
 
 - 🌱 I’m currently learning **JavaScript**
 
