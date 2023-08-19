@@ -15,7 +15,7 @@
 <p>👨🏻‍💻This is Amit Pouranik , a passionate Java full-stack developer and Learning DSA ( Data Structure And Algorithm). I have extensive experience in C and C++, using them professionally and for personal projects. </p>
 
 
-<h2> Hi, I'm Amit Pouranik </h2>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
@@ -58,13 +58,26 @@
    <img alt="SQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt= "SQLite" src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left">  </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amitpouranik-2&show_icons=true&locale=en&layout=compact" alt="amitpouranik-2" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amitpouranik-2&show_icons=true&locale=en" alt="amitpouranik-2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amitpouranik-2&" alt="amitpouranik-2" /></p>
+## **📊GitHub Stats :**
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=Amitpouranik-2&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=Amitpouranik-2&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amitpouranik-2&show_icons=true" />
+</picture>
+<br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+![](https://github-readme-streak-stats.herokuapp.com/?user=Amitpouranik-2&theme=dark&hide_border=false)
+<br><br>
+
+
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitpouranik-2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
