@@ -57,6 +57,9 @@
    <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>	
    <img alt="SQL" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt= "SQLite" src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
+   <img alt= "AWT" src = "https://img.shields.io/badge/UI-AWT-orange?style=for-the-badge&logo=java&logoColor=white"/>
+   <img alt= "Swing" src = "https://img.shields.io/badge/UI-Swing-blue?style=for-the-badge&logo=java&logoColor=white"/>
+   
 </div>
 
 
