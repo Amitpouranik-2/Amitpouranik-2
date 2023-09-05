@@ -84,3 +84,10 @@
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amitpouranik-2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## **📊Projects :**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amitpouranik-2&repo=Employee-Management-HR-Application&theme=dark)](https://github.com/Amitpouranik-2/Employee-Management-HR-Application)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Amitpouranik-2&repo=Generic_library_in_C&theme=dark)](https://github.com/Amitpouranik-2/Generic_library_in_C)
+
