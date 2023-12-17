@@ -59,10 +59,15 @@
    <img alt= "SQLite" src = "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" /> 
    <img alt= "AWT" src = "https://img.shields.io/badge/UI-AWT-orange?style=for-the-badge&logo=java&logoColor=white"/>
    <img alt= "Swing" src = "https://img.shields.io/badge/UI-Swing-blue?style=for-the-badge&logo=java&logoColor=white"/>
-   
+   <img alt="JDBC" src="https://img.shields.io/badge/Database-JDBC-orange?style=for-the-badge&logo=java&logoColor=white"/>
+
 </div>
 
+## **📊Leetcode Stats :**
 
+<p align="left">
+   <a href="https://leetcode.com/amitpouranik2" target="_blank" rel="noreferrer"><img height="250" width="48%" align="center" src="https://leetcard.jacoblin.cool/amitpouranik2?theme=dark&font=monospace"/></a>
+</p>
 
 ## **📊GitHub Stats :**
 <picture>
