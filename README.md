@@ -74,10 +74,13 @@
 ## **📊GFG Stats :**
 <p align="left">
    <a href="https://github.com/Amitpouranik-2/geeksForGeeksStatsAPI" target="_blank" rel="noreferrer"><img height="270" width="48%" align="center" src="https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=amitpouranik"/></a>
-
-
 </p>
 
+## **📊Leetcode Badges  :**
+
+<p align="left">
+   <a href="https://leetcode.com/amitpouranik2" target="_blank" rel="noreferrer"><img height="500" width="48%" align="center" src="https://leetcode-badge-showcase.vercel.app/api?username=amitpouranik2&theme=light"/></a>
+</p>
 
 
 
